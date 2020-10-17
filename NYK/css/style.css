@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+}
+
+h2 {
+  color: navy;
+  margin-left: 20px;
+}
+
+
+}
+h3 {
+ color: lightblue;
+ text-align: center;
+ font: italic ;
+}
+title {
+ background-color: lightblue;
+ color: #00000000;
+ text-align: center;
+ border: 3px groove #FFFF33;
+}
+
+
+h4 {
+ background-color: lightsalmon;
+ color: black;
+ text-align: center;
+ border: 3px groove #FFFF33;
+}
+
+
+
